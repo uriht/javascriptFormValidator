@@ -1,0 +1,31 @@
+.container{
+    
+    background-color: rgb(235, 232, 238);
+    width: 50%;
+    margin-top: 100;
+    margin-left: 100;
+    float: left;
+    
+}
+.error {
+    color: red;
+}
+
+.head{
+    text-decoration: solid;
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    color: #333;
+    margin: 10 auto auto auto;
+}
+.btn{
+    background-color: rgb(184, 232, 184);
+    border-radius: 10px;
+    font-weight: bold;
+}
+body {
+    background-image: url('desk-bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
