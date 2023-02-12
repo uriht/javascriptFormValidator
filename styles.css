@@ -20,9 +20,10 @@
     margin: 10 auto auto auto;
 }
 .btn{
-    background-color: rgb(184, 232, 184);
+    background-color: rgb(13, 174, 255);
     border-radius: 10px;
     font-weight: bold;
+    color: aliceblue;
 }
 body {
     background-image: url('desk-bg.png');
